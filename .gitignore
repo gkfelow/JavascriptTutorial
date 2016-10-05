@@ -2,6 +2,9 @@
 *.log*
 # project dependencies
 node_modules
+# generated files
+public/dist
+dist
 # OSX folder attributes
 .DS_Store
 # temporary files
